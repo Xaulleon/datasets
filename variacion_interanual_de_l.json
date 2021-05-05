@@ -1,0 +1,2446 @@
+﻿{
+    "Id": "06cf598a-8389-442f-a41e-88aabcfa50cc",
+    "Url": "www.epdata.es/variacion-interanual-deuda-publica/06cf598a-8389-442f-a41e-88aabcfa50cc",
+    "Titulo": "Variación interanual de la deuda pública",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Deuda pública a nivel mensual - Porcentaje de variación de Euros con respecto al mismo mes del año anterior para total como tipo de administración pública y España como país",
+                "SonDatosNumericos": true,
+                "Fuente": "Banco de España",
+                "Clasificacion": null,
+                "Unidad": "Euros",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 1995,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 13.606669571133775,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Enero",
+                        "Parametro": "1996",
+                        "Valor": 13.810384276256377,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 11.593078463059891,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 11.905689611334857,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 12.970107941292161,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 11.441921878625353,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 8.509700666682255,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 8.325518906463,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 6.486143592784821,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 8.292645038449521,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 11.173881874834992,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 11.684231089556636,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1996,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 12.883251824170733,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Enero",
+                        "Parametro": "1997",
+                        "Valor": 11.117714213590641,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 8.940176392477222,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 9.059803017607836,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 10.0242478802209,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 13.191164894316897,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 10.516096431890121,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 10.069988211210987,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 12.090584068233138,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 9.254319788916158,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 7.459031450101614,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 6.154929328538135,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1997,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 4.2663981247007445,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Enero",
+                        "Parametro": "1998",
+                        "Valor": 5.445609156379766,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 8.333781837787322,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 7.66581100756658,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 5.933359289224052,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.444529603256752,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 6.882440863397833,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 6.991618689462172,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 5.213237573965394,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 6.8789192835339,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 8.185563124787128,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 7.739168175139969,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1998,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 3.833530949583426,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Enero",
+                        "Parametro": "1999",
+                        "Valor": 2.4922444421501035,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.9135833519451269,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 2.0540339317272247,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 1.4687435997332958,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 2.3919831555298185,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 1.289216197341392,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -0.8039823498659073,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 0.3534766393248757,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": -0.44792008749139295,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -1.996062157143675,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 0.23448343825558954,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 1999,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 4.562858336060033,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Enero",
+                        "Parametro": "2000",
+                        "Valor": 4.76310302642126,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 4.566372859923707,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 3.375528906588548,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 3.9709094697851217,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.2986836578295042,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 3.358131876637445,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 6.4001422548177755,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 5.335724751754942,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 4.8153087010379085,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 6.081350819469679,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 5.061743007960523,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2000,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 3.4050153988916545,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Enero",
+                        "Parametro": "2001",
+                        "Valor": 2.2739818060507666,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.5430849571246028,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 2.794602156017716,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 3.1469244724120933,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.1412682416300477,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 3.1157247807503756,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 2.6413015207471457,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 2.550422417016579,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 2.487305650324401,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 1.6790705523866498,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 1.040936840480125,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2001,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 1.1550111899186184,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Enero",
+                        "Parametro": "2002",
+                        "Valor": 2.523482344134533,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.756580115181104,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 1.6554521562545053,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 2.6730257531211628,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 2.9367771984432225,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 1.604955793424479,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -0.2130051660679312,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": -0.4179672048374933,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 0.7534109053486606,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 1.1328737135160092,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 1.3299730238204628,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2002,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 1.388798187431878,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Enero",
+                        "Parametro": "2003",
+                        "Valor": 0.01558660108270152,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.45102244523467,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 0.7848087474091834,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 1.6842245001101894,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 0.003926770110891869,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 1.5509659226463326,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 2.1676411858434963,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 1.0385305495941968,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 0.4347902826497999,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -0.338008251372288,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": -0.3547623170659514,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2003,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": -0.356716287755264,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Enero",
+                        "Parametro": "2004",
+                        "Valor": 1.8493750360810672,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.0076737052965907,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 1.7816254591337952,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 0.0646919446427267,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 1.085784439857974,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 0.3097968972686613,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -0.5481704504268753,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 0.2161253816725572,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 1.0171271621981768,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -0.838022688736394,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 1.666642799219593,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2004,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 1.8582450278522868,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Enero",
+                        "Parametro": "2005",
+                        "Valor": 2.5740586178762315,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.7428743676327614,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 1.5280041981837518,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": -0.25132927748460615,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": -1.7447117334986983,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 0.6909346145895489,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -1.960042760920375,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": -1.8408540206962105,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 0.976761848913825,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -0.08756548338186401,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": -1.261948518111213,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2005,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 0.9210736531392495,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Enero",
+                        "Parametro": "2006",
+                        "Valor": -4.565392788399465,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": -3.5299529958335594,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": -0.18688340077678203,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": -2.2688034537637343,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": -0.7722807624433469,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": -0.7040546427376347,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 1.857308066851861,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 1.7358667515738808,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 1.0564051413734166,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -0.05976611351067392,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": -0.42147344857892977,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2006,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": -0.342309172544711,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Enero",
+                        "Parametro": "2007",
+                        "Valor": 2.2941920574193304,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 2.4704509149070013,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 1.2054163009531456,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 1.7957311347987954,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 1.9550669572562176,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 2.4962570172223164,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -0.8988199141935022,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": -1.0149930461326393,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": -0.8321595828913768,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": -1.6975609403034562,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": -1.804904653026949,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2007,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": -1.9050245227266103,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Enero",
+                        "Parametro": "2008",
+                        "Valor": -5.538477251915528,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": -4.492676091305883,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": -4.630573123825298,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": -4.571531295111612,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": -3.471138645886963,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": -2.3433310943491708,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": -0.7749713129748953,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 0.5738868109549987,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 3.174547811714548,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 4.400066350174784,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 8.666910994614959,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2008,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 14.54758083744575,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Enero",
+                        "Parametro": "2009",
+                        "Valor": 20.61717691714074,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 23.634168516600244,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 24.5720970034522,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 32.0882937255119,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 31.81336202503184,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 30.855979196420652,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 35.29965390990525,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 35.93333999262276,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 32.18955759914221,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 40.5571183774818,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 37.79133294614095,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2009,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 29.257435129079706,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Enero",
+                        "Parametro": "2010",
+                        "Valor": 27.525783709742818,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 24.445282046923072,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 23.88391868509052,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 20.4457997735676,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 20.77205963218529,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 19.143913304470278,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 19.060929033157194,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 18.314529481845064,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 16.276267312027386,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 16.52475353411189,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 14.341104358348371,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2010,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 13.97932031464849,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Enero",
+                        "Parametro": "2011",
+                        "Valor": 17.85853787546576,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 19.193436758774627,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 17.76186550117051,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 16.82309301218549,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 16.38398823404014,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 16.71630355084324,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 15.790593452178964,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 15.769070544648391,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 15.043909922312862,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 12.204530683829885,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 12.939013598662163,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2011,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 14.46357021823515,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Enero",
+                        "Parametro": "2012",
+                        "Valor": 14.451825901967537,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 13.560113556472668,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 13.09312273871877,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 13.234955543901108,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 14.404556148902891,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 14.084269146630485,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 15.065726268564639,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 14.6589563836999,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 15.359730676248677,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 15.669995744746297,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 15.697155536053632,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2012,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 19.765504416283154,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Enero",
+                        "Parametro": "2013",
+                        "Valor": 19.63519656270001,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 21.582860693442875,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 21.562116997841954,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 21.47158378379308,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 21.405437092053443,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 18.925459872842477,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 19.49004089032019,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 19.63917781048231,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 18.385566743039437,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 17.982040210206183,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 15.737016978094355,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2013,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 9.821511143037258,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Enero",
+                        "Parametro": "2014",
+                        "Valor": 8.572029638215575,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 6.045495225851624,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 5.861296817592039,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 5.994507719801763,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 5.2116260163302455,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 5.68173890540515,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 4.584988050125716,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 5.283241081687178,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 5.3097776155294305,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 5.172607184500074,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 6.066999687427314,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2014,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 6.35173913218359,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Enero",
+                        "Parametro": "2015",
+                        "Valor": 5.657712003681054,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 5.189584526700853,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 4.459229333896445,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 3.860128547860937,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.236466288319283,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 3.597898274489099,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 3.014986524063525,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 3.5182809139687587,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 3.813518496317126,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 3.7596864680524553,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 4.176546534931416,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2015,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 2.952767853409033,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Enero",
+                        "Parametro": "2016",
+                        "Valor": 3.1206481718284267,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 3.2488005949273835,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 3.9917282926515716,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 4.059259383437752,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.840349408327748,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 4.436310723817957,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 5.325225665102384,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 4.472066360564644,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 3.6109985133404057,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 3.9244259769501677,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 2.4211723005095953,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2016,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 3.2217236326431564,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Enero",
+                        "Parametro": "2017",
+                        "Valor": 3.717576992961388,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 3.4427465819002645,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 3.0672312764112686,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 3.305772433373369,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.702382999907316,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 2.9383415634071626,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 2.9089447801538935,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 2.7554249185857507,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 2.9521655501797883,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 2.5906319902314183,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 3.9118014615833188,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2017,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 3.6705660068909896,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Enero",
+                        "Parametro": "2018",
+                        "Valor": 3.0383311904653345,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 3.824732336773001,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 3.201087673064152,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 3.4124337776269944,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 2.8893777279962545,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 2.715571355438623,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 2.841647029924205,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 3.1292409642718946,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 3.586115908996216,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 2.8968137629481037,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 2.87438277312205,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2018,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 2.4672829188493695,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Enero",
+                        "Parametro": "2019",
+                        "Valor": 2.467790063073284,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 2.260909976429674,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 2.9720081469241912,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 2.384658556043631,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 3.0126624546851066,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 3.555955897569923,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 2.6650608811079253,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 2.6630731066645996,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 2.213694047891204,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 2.3969197064894256,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 1.3593234967875987,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2019,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 1.3218017052110467,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Enero",
+                        "Parametro": "2020",
+                        "Valor": 1.8353383323633847,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 1.4436606419253053,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Marzo",
+                        "Parametro": "Marzo",
+                        "Valor": 2.331559698767402,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Abril",
+                        "Parametro": "Abril",
+                        "Valor": 4.7034400899933715,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Mayo",
+                        "Parametro": "Mayo",
+                        "Valor": 5.571442778736935,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Junio",
+                        "Parametro": "Junio",
+                        "Valor": 6.92611400031443,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Julio",
+                        "Parametro": "Julio",
+                        "Valor": 8.134176288890785,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Agosto",
+                        "Parametro": "Agosto",
+                        "Valor": 8.549018032396559,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Septiembre",
+                        "Parametro": "Septiembre",
+                        "Valor": 8.661149529098608,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Octubre",
+                        "Parametro": "Octubre",
+                        "Valor": 9.660281144182894,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Noviembre",
+                        "Parametro": "Noviembre",
+                        "Valor": 10.488838767096928,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Diciembre",
+                        "Parametro": "Diciembre",
+                        "Valor": 13.181568075803474,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Enero",
+                        "Parametro": "2021",
+                        "Valor": 12.751410335519186,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Febrero",
+                        "Parametro": "Febrero",
+                        "Valor": 13.746569408837903,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
