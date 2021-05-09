@@ -1,0 +1,158 @@
+﻿{
+    "Id": "1d01c9ff-ea52-45e8-b969-b880257416a3",
+    "Url": "www.epdata.es/deuda-publica-cada-mil-habitantes-comunidades-autonomas/1d01c9ff-ea52-45e8-b969-b880257416a3",
+    "Titulo": "Deuda pública por cada mil habitantes por comunidades autónomas",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Deuda pública a nivel trimestral - Euros por cada 1000 habitantes para total como tipo de administración pública y Andalucía, Aragón, Asturias, Islas Baleares, Canarias, Cantabria, Castilla-La Mancha, Castilla León, Cataluña, Extremadura, Galicia, La Rioja, Madrid, Murcia, Navarra, País Vasco, Comunidad Valenciana como comunidad autónoma",
+                "SonDatosNumericos": true,
+                "Fuente": "Banco de España",
+                "Clasificacion": null,
+                "Unidad": "Euros",
+                "Escala": "Millones",
+                "EscalaFactorPotencia10": 6,
+                "Datos": [
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Andalucía",
+                        "Valor": 4.255209511588579,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Aragón",
+                        "Valor": 6.566110525224665,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Asturias",
+                        "Valor": 4.379247113277692,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Canarias",
+                        "Valor": 2.856801129883091,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Cantabria",
+                        "Valor": 5.742541036106966,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Castilla y León",
+                        "Valor": 5.407973376913388,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Castilla-La Mancha",
+                        "Valor": 7.502004769157879,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Cataluña",
+                        "Valor": 10.334947597798655,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Comunidad Valenciana",
+                        "Valor": 10.088265778815229,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Extremadura",
+                        "Valor": 4.6222550528174,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Galicia",
+                        "Valor": 4.275313315433476,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Islas Baleares",
+                        "Valor": 7.504963075246837,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "La Rioja",
+                        "Valor": 5.230147056497658,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Madrid",
+                        "Valor": 5.122295562102543,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Murcia",
+                        "Valor": 6.746986858069403,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "Navarra",
+                        "Valor": 5.503444833966307,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Trimestre 4",
+                        "Parametro": "País Vasco",
+                        "Valor": 4.925824278713308,
+                        "Estado": "Definitivo",
+                        "Notas": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
